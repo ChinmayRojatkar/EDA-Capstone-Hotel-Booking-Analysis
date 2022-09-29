@@ -76,28 +76,44 @@ All duplicate rows were dropped.
 Performed EDA and tried answering the following questions:
 
 ```
- Q1) Which agent makes the most no. of bookings?
- Q2) Which room type is in most demand and which room type generatesthe  highest adr?
- Q3) Which meal type isthe  most preffered meal of customers?
- Q4) What isthe  percentage of bookings in each hotel?
- Q5) Which is the most common channel for booking hotels?
- Q6) Which are the most busy months?
- Q7) From which country most of the guests are comin ?
- Q8) How long do people stay at the hotels?
- Q9)  Which hotel seems to make more revenue?
- Q10)  Which hotel hasa  higher lead time?
- Q11)  What is preferred stay length in each hotel?
- Q12)  Which hotel has higher bookings cancellation rate.
- Q13)  Which hotel hasa  high chance that its customer will return for another stay?
- Q14)  Which channel is mostly used forthe  early booking of hotels?
- Q15)  Which channel hasa  longer average waiting time?
- Q16)  Which distribution channel brings betterrevenue-generatingg deals for hotels?
- Q17)  Which significant distribution channel has the highest cancellation percentage?
- Q18) Doesa  longer waiting period or longer lead time causes the cancellation of bookings?
- Q19) Whether not getting allotted the same room type as demand is the main cause of cancellation for bookings?
- Q20) Does not alloting the  same room as demanded affect adr? 
- Q21) What is the trend of bookings within a month?
- Q22) Which types of customers mostly make bookings?
+  • While doing Bivariate analysis of the given hotel booking dataset, we
+    tried to figured answering the following questions:
+      1. Which room type is in the demand?
+      2. Which room type generated highest Revenue?
+      3. In Which Year the Highest Number of Rooms booked by the each
+      type of the Hotel?
+      4. Maximum Number of the Rooms booked by ?
+      5. In which Month the Highest Number of Customers came ?
+      
+  • While doing the Hotel Wise Analysis of the given hotel booking
+    dataset, we tried to figured answering the following questions:
+      1. Percentage of the bookings in each hotels?
+      2. Which hotel makes more revenue?
+      3. Which hotel has higher booking cancellations rates?
+      4. What is most preferred stay length in each hotel?
+      5. What is the preferred stay time by the Customers?
+
+ • While doing this set of the analysis of provided hotel booking dataset,
+   the Team Tried to find the answer of the following questions:
+      1. What is the most common channel for making the booking of the
+      hotels?
+      2. Which distribution channel generates more revenue deals for the
+      hotels?
+      3. Which channel does have more repeated Customers?
+
+• While doing the Cancelation Analysis The team figured to do the
+  analysis and tried to answer the following:
+      1. Which distribution channel has highest the cancellation
+      percentage?
+      2. Reasons behind the Cancelation Occurs?
+      3. Which channels is affecting the most revenue of the Hotels?
+
+• While doing the Time Wise Analysis The team figured to do the analysis
+  and tried to answer the following:
+      1. Which Months are the most busiest months for the hotels?
+      2. In which year the Highest Number of Bookings were Done?
+      3. What are the busiest days of the months in staying the Hotels?
+      4. Trends of booking Changes and Months of Arrivals?
 
 ```
 
@@ -123,29 +139,6 @@ Performed univariate analysis and made following conclusions:
  7.) Most of the guests came from european countries, with highest number of guests from Portugal.
  8.) Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.
  
-```
-
-
-
-
-### Bivariate Analysis :
-
-We tried to answer following questions
-```
- 1.) Overall adr of City hotel is slightly higher than Resort hotel and no. of bookings of City hotel is also higher than Resort hotel. Hence, City hotel is makes more revenue.
- 2.) City hotel has slightly higher median lead time. Also median lead time is significantly higher for both hotels, this means customers generally plan their hotel   visits way early.
- 3.) Almost 30 % of City Hotel bookings got canceled.
- 4.) Both hotels have very small percentage that customer will repeat, but Resort hotel has slightly higher repeat % than City Hotel.
- 5.) TA/TO is mostly used for planning Hotel visits well ahead of time. 
- 6.) While booking via TA/TO one may have to wait a little longer to confirm booking of rooms.
- 7.) GDS channel brings higher revenue generating deals for City hotel, in contrast to that most bookings come via TA/TO. City Hotel can work to increase outreach on GDS channels to get more higher revenue generating deals.
- 8.) TA/TO has highest booking cancellation %. Therefore, a booking via TA/TO is 30% likely to get cancelled.
- 9.) Longer lead time has no affect on cancellation of bookings.
- 10.) Not getting same room as demanded is not the case of cancellation of rooms. A significant percentage of bookings are not cancelled even after getting different room as demanded.
- 11.) Not getting same room do affects the adr, people who didn't got same room have paid a little lower adr. 
- 12.) Arrivals in hotels increases at weekends and also the avg adr tends to go up as month ends. 
- 13.)Moslty bookings are done by couples(bookings have two adults.)
-```
 
 ## Conclusion
 
