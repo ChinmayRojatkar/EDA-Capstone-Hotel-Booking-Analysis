@@ -1,4 +1,7 @@
-                                                 # EDA-ON-Hotel-Booking-Analysis-
+                                                ![image](https://user-images.githubusercontent.com/113965073/192941715-d19cb3f0-df98-4e7a-b843-a247e08c0d56.png)
+
+                                                
+                                                ## EDA-ON-Hotel-Booking-Analysis-
 ![lens-flare-png-46225](https://user-images.githubusercontent.com/113965073/192941347-47c6c6e1-c142-4c62-8ba2-a4a059734dfa.png)
 
 
