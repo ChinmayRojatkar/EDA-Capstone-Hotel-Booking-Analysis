@@ -1,4 +1,5 @@
-# EDA-ON-Hotel-Booking-Analysis-
+                                                 # EDA-ON-Hotel-Booking-Analysis-
+![lens-flare-png-46225](https://user-images.githubusercontent.com/113965073/192940934-f8f4e12a-4f61-4507-82d6-7bc32acecac8.png)
 
 ## Objective
 
