@@ -6,14 +6,6 @@ We are provided with a hotel bookings dataset.
 
 Out main objective is perform EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other.
 
-• Data Conclusion
-• Bivariate Analysis
-• Hotel wise Analysis
-• Cancelation Analysis
-• Time wise Analysis
-![image](https://user-images.githubusercontent.com/113965073/192938584-82fa25d6-5794-4472-87b5-27f99de92562.png)
-
-
 ## Dataset
 We are given a hotel bookings dataset. This dataset contains booking information for a city hotel and a resort hotel. It contains the following features.
 
