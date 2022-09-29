@@ -1,8 +1,9 @@
-![image](https://user-images.githubusercontent.com/113965073/192941715-d19cb3f0-df98-4e7a-b843-a247e08c0d56.png)
+![download (2)](https://user-images.githubusercontent.com/113965073/192943592-bbb758d9-4fe8-45f5-b3af-7071c4797dad.png)
+
 
                                                 
-                                                ## EDA-ON-Hotel-Booking-Analysis-
-![lens-flare-png-46225](https://user-images.githubusercontent.com/113965073/192941347-47c6c6e1-c142-4c62-8ba2-a4a059734dfa.png)
+   ## EDA-ON-Hotel-Booking-Analysis
+![14](https://user-images.githubusercontent.com/113965073/192951189-bc2ab95b-1606-4e74-ba5f-0cf1213359f2.jpg)
 
 
 ## Objective
@@ -10,6 +11,7 @@
 We are provided with a hotel bookings dataset. 
 
 Out main objective is perform EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other.
+
 
 ## Dataset
 We are given a hotel bookings dataset. This dataset contains booking information for a city hotel and a resort hotel. It contains the following features.
@@ -78,6 +80,9 @@ All duplicate rows were dropped.
 
 ## Exploratory Data Analysis
 
+![15](https://user-images.githubusercontent.com/113965073/192951582-3ac812a9-cebd-469e-8f31-f4dd05bb3e94.jpg)
+
+
 Performed EDA and tried answering the following questions:
 
 ```
@@ -144,8 +149,9 @@ Performed univariate analysis and made following conclusions:
  7.) Most of the guests came from european countries, with highest number of guests from Portugal.
  8.) Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.
  
-
+```
 ## Conclusion
+![14](https://user-images.githubusercontent.com/113965073/192952071-4636b98d-8f48-4023-aff5-ee3542246f2c.jpg)
 
 ```
 (1) Around 60% bookings are for City hotel and 40% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. Also the overall adr of City hotel is slightly higher than Resort hotel.
@@ -171,5 +177,8 @@ And many more conclusions.
 (2) Data was present in wrong datatype format.
 (3) Choosing appropriate visualization techniques to use was difficult.
 (4) A lot of null values were there in the dataset.
+```
 
 
+
+# **Thank you for visiting my profile, I hope you found enough details and information about me ? Have an amazing day!:smile:**
