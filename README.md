@@ -1,4 +1,4 @@
-                                                ![image](https://user-images.githubusercontent.com/113965073/192941715-d19cb3f0-df98-4e7a-b843-a247e08c0d56.png)
+![image](https://user-images.githubusercontent.com/113965073/192941715-d19cb3f0-df98-4e7a-b843-a247e08c0d56.png)
 
                                                 
                                                 ## EDA-ON-Hotel-Booking-Analysis-
